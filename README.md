@@ -7,3 +7,5 @@
 **More content added to html file, linked bootstrap and created an empty css file**
 
 *Removed the link to Giphy in the html, attempted to style the header in the css file*
+
+## Check out the favico, it might look familiar.
